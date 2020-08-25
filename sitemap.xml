@@ -1,14 +1,17 @@
-<!DOCTYPE html>
-<html lang="en-US">
+<?xml version="1.0" encoding="UTF-8"?>
 
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Shillong Teer result</title>
-</head>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<body>
-<h1>Sitemap</h1>
-</body>
+   <url>
 
-</html>
+      <loc>http://www.example.com/</loc>
+
+      <lastmod>2005-01-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+</urlset> 
