@@ -1,17 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-
-      <loc>http://www.example.com/</loc>
-
-      <lastmod>2005-01-01</lastmod>
-
-      <changefreq>monthly</changefreq>
-
-      <priority>0.8</priority>
-
-   </url>
-
-</urlset> 
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://theteer.com/</loc>
+		<changefreq>hourly</changefreq>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://theteer.com/assets/teer-result.png</image:loc>
+			<image:title><![CDATA[shillong teer]]></image:title>
+			<image:caption><![CDATA[Shillong teer result &amp; Shillong teer common number]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/terms-and-conditions/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://theteer.com/disclaimer/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://theteer.com/privacy/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://theteer.com/about-teer/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://theteer.com/contact-us/</loc>
+		<changefreq>weekly</changefreq>
+		<image:image>
+			<image:loc>https://theteer.com/asset/contact-details.jpg</image:loc>
+			<image:caption><![CDATA[teer target contact]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/juwai-teer-results/</loc>
+		<changefreq>hourly</changefreq>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://theteer.com/assets/juwai-teer.png</image:loc>
+			<image:title><![CDATA[Juwai teer]]></image:title>
+			<image:caption><![CDATA[Juwai Teer result, Juwai teer 2 result &amp; Juwai teer common number]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/khanapara-teer-results/</loc>
+		<changefreq>hourly</changefreq>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://theteer.com/assets/khanapara-teer.png</image:loc>
+			<image:title><![CDATA[khanapara teer]]></image:title>
+			<image:caption><![CDATA[Khanapara teer result &amp; khanapara teer common number]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/shillong-teer-night/</loc>
+		<changefreq>hourly</changefreq>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://theteer.com/assets/night-teer.png</image:loc>
+			<image:title><![CDATA[Teer Night]]></image:title>
+			<image:caption><![CDATA[Shillong Teer Night result, teer night 2 result &amp; common number]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/juwai-teer-previous-results/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+		<image:image>
+			<image:loc>https://theteer.com/assets/juwai-teer-previous-results.png</image:loc>
+			<image:title><![CDATA[juwai teer previous results]]></image:title>
+			<image:caption><![CDATA[Juwai Teer previous results]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/juwai-teer-2-previous/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+		<image:image>
+			<image:loc>https://theteer.com/assets/juwai-teer-2-previous-results.png</image:loc>
+			<image:title><![CDATA[juwai teer 2 previous results]]></image:title>
+			<image:caption><![CDATA[Juwai Teer 2 previous results]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/shillong-teer-previous-results/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+		<image:image>
+			<image:loc>http://theteer.com/asset/shillong-teer-previous-results.png</image:loc>
+			<image:title><![CDATA[shillong teer previous results]]></image:title>
+			<image:caption><![CDATA[Shillong teer previous results]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/khanapara-teer-previous-results/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+		<image:image>
+			<image:loc>https://theteer.com/assets/khanapara-teer-previous-results.png</image:loc>
+			<image:title><![CDATA[khanapara teer previous results]]></image:title>
+			<image:caption><![CDATA[Khanapara Teer previous results]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/shillong-teer-night-previous-results/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+		<image:image>
+			<image:loc>https://theteer.com/assets/shillong-night-teer-previous-results.png</image:loc>
+			<image:title><![CDATA[shillong night teer previous results]]></image:title>
+			<image:caption><![CDATA[Shillong teer night previous results]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/shillong-teer-night-2-previous-results/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+		<image:image>
+			<image:loc>https://theteer.com/asset/shillong-night-teer-2-previous-results.png</image:loc>
+			<image:title><![CDATA[shillong night teer 2 previous results]]></image:title>
+			<image:caption><![CDATA[Shillong Teer Night 2 Previous Results]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/teer-formula/</loc>
+		<changefreq>weekly</changefreq>
+		<image:image>
+			<image:loc>https://theteer.com/assets/Teer-formula.png</image:loc>
+			<image:title><![CDATA[Teer formula]]></image:title>
+			<image:caption><![CDATA[Teer formula]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/teer-dream-numbers/</loc>
+		<changefreq>weekly</changefreq>
+		<image:image>
+			<image:loc>https://theteer.com/assets/Teer-Dream-Numbers.png</image:loc>
+			<image:title><![CDATA[Teer Dream Numbers]]></image:title>
+			<image:caption><![CDATA[Teer Dream numbers]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/groups-and-points/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+</urlset>
