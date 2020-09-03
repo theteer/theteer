@@ -41,7 +41,7 @@
 		<image:image>
 			<image:loc>https://theteer.com/assets/juwai-teer.png</image:loc>
 			<image:title><![CDATA[Juwai teer]]></image:title>
-			<image:caption><![CDATA[Juwai Teer result, Juwai teer 2 result &amp; Juwai teer common number]]></image:caption>
+			<image:caption><![CDATA[Juwai Teer result, Juwai teer 2 result & Juwai teer common number]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -51,7 +51,7 @@
 		<image:image>
 			<image:loc>https://theteer.com/assets/khanapara-teer.png</image:loc>
 			<image:title><![CDATA[khanapara teer]]></image:title>
-			<image:caption><![CDATA[Khanapara teer result &amp; khanapara teer common number]]></image:caption>
+			<image:caption><![CDATA[Khanapara teer result & khanapara teer common number]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -126,7 +126,8 @@
 	</url>
 	<url>
 		<loc>https://theteer.com/teer-formula/</loc>
-		<changefreq>weekly</changefreq>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/Teer-formula.png</image:loc>
 			<image:title><![CDATA[Teer formula]]></image:title>
@@ -135,7 +136,8 @@
 	</url>
 	<url>
 		<loc>https://theteer.com/teer-dream-numbers/</loc>
-		<changefreq>weekly</changefreq>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/Teer-Dream-Numbers.png</image:loc>
 			<image:title><![CDATA[Teer Dream Numbers]]></image:title>
