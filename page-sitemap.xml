@@ -148,4 +148,8 @@
 		<loc>https://theteer.com/groups-and-points/</loc>
 		<changefreq>weekly</changefreq>
 	</url>
+	<url>
+		<loc>https://theteer.com/404.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
 </urlset>
