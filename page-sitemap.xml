@@ -6,8 +6,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/teer-result.png</image:loc>
-			<image:title><![CDATA[shillong teer]]></image:title>
-			<image:caption><![CDATA[Shillong teer result & Shillong teer common number]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -16,8 +14,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/juwai-teer.png</image:loc>
-			<image:title><![CDATA[Juwai teer]]></image:title>
-			<image:caption><![CDATA[Juwai Teer result, Juwai teer 2 result & Juwai teer common number]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -26,8 +22,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/khanapara-teer.png</image:loc>
-			<image:title><![CDATA[khanapara teer]]></image:title>
-			<image:caption><![CDATA[Khanapara teer result & khanapara teer common number]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -36,8 +30,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/night-teer.png</image:loc>
-			<image:title><![CDATA[Teer Night]]></image:title>
-			<image:caption><![CDATA[Shillong Teer Night result, teer night 2 result & common number]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -46,8 +38,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/juwai-teer-previous-results.png</image:loc>
-			<image:title><![CDATA[juwai teer previous results]]></image:title>
-			<image:caption><![CDATA[Juwai Teer previous results]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -56,8 +46,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/juwai-teer-2-previous-results.png</image:loc>
-			<image:title><![CDATA[juwai teer 2 previous results]]></image:title>
-			<image:caption><![CDATA[Juwai Teer 2 previous results]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -66,8 +54,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>http://theteer.com/asset/shillong-teer-previous-results.png</image:loc>
-			<image:title><![CDATA[shillong teer previous results]]></image:title>
-			<image:caption><![CDATA[Shillong teer previous results]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -76,8 +62,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/khanapara-teer-previous-results.png</image:loc>
-			<image:title><![CDATA[khanapara teer previous results]]></image:title>
-			<image:caption><![CDATA[Khanapara Teer previous results]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -86,8 +70,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/shillong-night-teer-previous-results.png</image:loc>
-			<image:title><![CDATA[shillong night teer previous results]]></image:title>
-			<image:caption><![CDATA[Shillong teer night previous results]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -96,8 +78,6 @@
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://theteer.com/asset/shillong-night-teer-2-previous-results.png</image:loc>
-			<image:title><![CDATA[shillong night teer 2 previous results]]></image:title>
-			<image:caption><![CDATA[Shillong Teer Night 2 Previous Results]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -106,8 +86,6 @@
 		<priority>0.7</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/Teer-formula.png</image:loc>
-			<image:title><![CDATA[Teer formula]]></image:title>
-			<image:caption><![CDATA[Teer formula]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -116,8 +94,6 @@
 		<priority>0.7</priority>
 		<image:image>
 			<image:loc>https://theteer.com/assets/Teer-Dream-Numbers.png</image:loc>
-			<image:title><![CDATA[Teer Dream Numbers]]></image:title>
-			<image:caption><![CDATA[Teer Dream numbers]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -141,7 +117,6 @@
 		<changefreq>weekly</changefreq>
 		<image:image>
 			<image:loc>https://theteer.com/asset/contact-details.jpg</image:loc>
-			<image:caption><![CDATA[teer target contact]]></image:caption>
 		</image:image>
 	</url>
 	<url>
