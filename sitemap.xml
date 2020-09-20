@@ -115,9 +115,6 @@
 	<url>
 		<loc>https://theteer.com/contact-us/</loc>
 		<changefreq>weekly</changefreq>
-		<image:image>
-			<image:loc>https://theteer.com/asset/contact-details.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/groups-and-points/</loc>
