@@ -72,8 +72,4 @@
 		<loc>https://theteer.com/contact-us/</loc>
 		<changefreq>weekly</changefreq>
 	</url>
-	<url>
-		<loc>https://theteer.com/404.html</loc>
-		<changefreq>weekly</changefreq>
-	</url>
 </urlset>
