@@ -58,18 +58,17 @@
 	</url>
 	<url>
 		<loc>https://theteer.com/terms/</loc>
-		<changefreq>weekly</changefreq>
+		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/privacy/</loc>
-		<changefreq>weekly</changefreq>
+		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/about/</loc>
-		<changefreq>weekly</changefreq>
+		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/contact-us/</loc>
-		<changefreq>weekly</changefreq>
-	</url>
+		<changefreq>daily</changefreq>
 </urlset>
