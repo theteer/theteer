@@ -57,11 +57,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://theteer.com/terms/</loc>
+		<loc>https://theteer.com/privacy/</loc>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>https://theteer.com/privacy/</loc>
+		<loc>https://theteer.com/contact-us/</loc>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
@@ -69,7 +69,23 @@
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>https://theteer.com/contact-us/</loc>
+		<loc>https://theteer.com/terms/</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://theteer.com/404.html</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://theteer.com/about-teer/</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://theteer.com/terms-and-conditions/</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://theteer.com/juwai-teer-2-previous-results/</loc>
 		<changefreq>daily</changefreq>
 	</url>
 </urlset>
