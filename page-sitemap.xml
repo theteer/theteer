@@ -33,11 +33,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://theteer.com/teer-night-previous-results/</loc>
+		<loc>https://theteer.com/shillong-teer-night-previous-results/</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>https://theteer.com/assets/shillong-night-teer-previous-results.png</image:loc>
+			<image:loc>https://theteer.com/assets/night-teer-previous-results.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -58,34 +58,26 @@
 	</url>
 	<url>
 		<loc>https://theteer.com/privacy/</loc>
-		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/contact-us/</loc>
-		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/about/</loc>
-		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/terms/</loc>
-		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/404.html</loc>
-		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/about-teer/</loc>
-		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/terms-and-conditions/</loc>
-		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>https://theteer.com/juwai-teer-2-previous-results/</loc>
-		<changefreq>daily</changefreq>
 	</url>
 </urlset>
