@@ -2,58 +2,72 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://theteer.com/</loc>
-		<changefreq>hourly</changefreq>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>https://theteer.com/assets/teer-result.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/shillong-teer.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/teer-night/</loc>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1603560791/asset/night-teer.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/khanapara-teer-results/</loc>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/khanapara-teer.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://theteer.com/juwai-teer-results/</loc>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930656/asset/juwai-teer.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/juwai-teer-previous-results/</loc>
-		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>https://theteer.com/assets/juwai-teer-previous-results.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/juwai-teer-previous-results.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/shillong-teer-previous-results/</loc>
-		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>http://theteer.com/asset/shillong-teer-previous-results.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/shillong-teer-previous-results.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/khanapara-teer-previous-results/</loc>
-		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>https://theteer.com/assets/khanapara-teer-previous-results.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/khanapara-teer-previous-results.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/shillong-teer-night-previous-results/</loc>
-		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>https://theteer.com/assets/night-teer-previous-results.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/night-teer-previous-results.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/teer-formula/</loc>
-		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 		<image:image>
-			<image:loc>https://theteer.com/assets/Teer-formula.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/Teer-formula.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/dream-numbers/</loc>
-		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 		<image:image>
-			<image:loc>https://theteer.com/assets/Teer-Dream-Numbers.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/Teer-Dream-Numbers.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -75,15 +89,6 @@
 		<loc>https://theteer.com/shillong-teer-night-previous-results/</loc>
 	</url>
 	<url>
-		<loc>https://theteer.com/teer-night/</loc>
-	</url>
-	<url>
-		<loc>https://theteer.com/khanapara-teer-results/</loc>
-	</url>
-	<url>
 		<loc>https://theteer.com/common-numbers/</loc>
-	</url>
-	<url>
-		<loc>https://theteer.com/juwai-teer-results/</loc>
 	</url>
 </urlset>
