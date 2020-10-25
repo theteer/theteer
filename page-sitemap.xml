@@ -4,28 +4,28 @@
 		<loc>https://theteer.com/</loc>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/shillong-teer.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1603599421/asset/shillong-teer.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/teer-night/</loc>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1603560791/asset/night-teer.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1603599421/asset/night-teer.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/khanapara-teer-results/</loc>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/khanapara-teer.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1603599420/asset/khanapara-teer.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://theteer.com/juwai-teer-results/</loc>
 		<priority>1.0</priority>
 		<image:image>
-			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930656/asset/juwai-teer.png</image:loc>
+			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1603599419/asset/juwai-teer.png</image:loc>
 		</image:image>
 	</url>
 	<url>
