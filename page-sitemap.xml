@@ -50,7 +50,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://theteer.com/shillong-teer-night-previous-results/</loc>
+		<loc>https://theteer.com/teer-night-previous-results/</loc>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://res.cloudinary.com/theteer-com/image/upload/v1599930469/asset/night-teer-previous-results.png</image:loc>
@@ -84,11 +84,5 @@
 	</url>
 	<url>
 		<loc>https://theteer.com/404.html</loc>
-	</url>
-	<url>
-		<loc>https://theteer.com/shillong-teer-night-previous-results/</loc>
-	</url>
-	<url>
-		<loc>https://theteer.com/common-numbers/</loc>
 	</url>
 </urlset>
