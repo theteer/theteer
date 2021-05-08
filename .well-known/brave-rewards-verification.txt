@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: theteer.com
+Token: 1514a7d58c405274dc7abd0f56b369b8c244d3f65c0906c9689fe57d247c8f15
