@@ -1,5 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /readme.md
- 
-Sitemap: https://theteer.com/page-sitemap.xml
